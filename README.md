@@ -1,1 +1,3 @@
 # Snail-Game-Development-with-Python-Arcade
+
+Snail Game is a captivating Python project that was created entirely from scratch utilizing the Arcade library. This fun-filled game allows players to take charge of snails in a grid-based setting. The project was developed independently and features tailored graphics integration for snails, background elements, and a dynamic versus screen. Players can indulge in easy-to-use controls, vivid visuals, and formidable AI opponents in single-player mode. With an emphasis on entertainment and ease of use, it offers an enjoyable gaming experience and serves as a testament to the creator's expertise in Python programming and game development.
